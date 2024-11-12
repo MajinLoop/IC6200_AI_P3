@@ -1,0 +1,9 @@
+defaults:
+  - override hydra/hydra_logging: disabled
+
+model:
+  lr: 1e-3
+  batch_size: 32
+
+data:
+  labeled_percentage: 0.3  # Usa otro archivo para experimentar con 0.1
