@@ -1,9 +1,10 @@
-defaults:
-  - override hydra/hydra_logging: disabled
-
 model:
-  lr: 1e-3
+  learning_rate: 0.001
   batch_size: 32
+  epochs: 10
+  train_dataset_dir: "data/train"
+  validation_dataset_dir: "data/valid"
+  test_dataset_dir: "data/test"
 
 data:
-  labeled_percentage: 0.3  # Usa otro archivo para experimentar con 0.1
+  labeled_percentage: 0.3
