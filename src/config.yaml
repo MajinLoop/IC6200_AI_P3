@@ -1,7 +1,8 @@
 model:
-  learning_rate: 0.001
+  learning_rate: 0.003
   batch_size: 32
   epochs: 10
+  patience: 3
   train_dataset_dir: "data/train"
   validation_dataset_dir: "data/valid"
   test_dataset_dir: "data/test"
