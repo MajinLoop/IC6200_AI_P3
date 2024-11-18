@@ -1,0 +1,24 @@
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+
+  | Name        | Type       | Params | Mode
+---------------------------------------------------
+0 | enc1        | Sequential | 38.7 K | train
+1 | enc2        | Sequential | 221 K  | train
+2 | enc3        | Sequential | 885 K  | train
+3 | enc4        | Sequential | 3.5 M  | train
+4 | bottleneck  | Sequential | 14.2 M | train
+5 | dec4        | Sequential | 2.1 M  | train
+6 | dec3        | Sequential | 1.0 M  | train
+7 | dec2        | Sequential | 262 K  | train
+8 | dec1        | Sequential | 65.6 K | train
+9 | final_layer | Conv2d     | 387    | train
+---------------------------------------------------
+22.3 M    Trainable params
+0         Non-trainable params
+22.3 M    Total params
+89.272    Total estimated model params size (MB)
+38        Modules in train mode
+0         Modules in eval mode
+c:\Users\aleja\.conda\envs\env_IC6200_AI_P2_pytorch\lib\site-packages\pytorch_lightning\trainer\connectors\data_connector.py:419: Consider setting `persistent_workers=True` in 'train_dataloader' to speed up the dataloader worker initialization.
+Epoch 1: 100%|██████████| 112/112 [00:25<00:00,  4.36it/s, v_num=hb82]
+`Trainer.fit` stopped: `max_epochs=2` reached.

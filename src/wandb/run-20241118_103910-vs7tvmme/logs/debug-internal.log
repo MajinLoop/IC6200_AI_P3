@@ -1,0 +1,20 @@
+{"time":"2024-11-18T10:39:10.9367486-06:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-18T10:39:10.9367486-06:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20241118_103910-vs7tvmme\\logs\\debug-core.log"}
+{"time":"2024-11-18T10:39:11.0504118-06:00","level":"INFO","msg":"created new stream","id":"vs7tvmme"}
+{"time":"2024-11-18T10:39:11.0504118-06:00","level":"INFO","msg":"stream: started","id":"vs7tvmme"}
+{"time":"2024-11-18T10:39:11.0504118-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vs7tvmme"}}
+{"time":"2024-11-18T10:39:11.0504118-06:00","level":"INFO","msg":"sender: started","stream_id":"vs7tvmme"}
+{"time":"2024-11-18T10:39:11.0504118-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vs7tvmme"}}
+{"time":"2024-11-18T10:39:11.683949-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-18T10:40:14.6828511-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-18T10:40:14.6836537-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-18T10:40:15.6925589-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-vs7tvmme","runtime_seconds":1.8439516,"subtasks":[{"desc":"model.ckpt","runtime_seconds":0.5501687,"progress":"880.0KB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T10:41:16.0910703-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-vs7tvmme","runtime_seconds":62.242463,"subtasks":[{"desc":"model.ckpt","runtime_seconds":60.9486801,"progress":"92.6MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T10:42:16.4784679-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-vs7tvmme","runtime_seconds":122.6298606,"subtasks":[{"desc":"model.ckpt","runtime_seconds":121.3360777,"progress":"182.4MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T10:43:12.6447498-06:00","level":"ERROR","msg":"sender: sendDefer: failed to build job artifact","error":"Rel: can't make d:\\D\\TEC\\2024\\S2\\IA\\Repos\\Proyecto_3\\IC6200_AI_P3\\src relative to ."}
+{"time":"2024-11-18T10:43:12.6950379-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-18T10:43:14.0307906-06:00","level":"INFO","msg":"stream: closing","id":"vs7tvmme"}
+{"time":"2024-11-18T10:43:14.0307906-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"vs7tvmme"}}
+{"time":"2024-11-18T10:43:14.0307906-06:00","level":"INFO","msg":"sender: closed","stream_id":"vs7tvmme"}
+{"time":"2024-11-18T10:43:14.0307906-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vs7tvmme"}}
+{"time":"2024-11-18T10:43:14.0307906-06:00","level":"INFO","msg":"stream: closed","id":"vs7tvmme"}

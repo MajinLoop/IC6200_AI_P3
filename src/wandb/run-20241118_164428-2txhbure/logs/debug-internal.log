@@ -1,0 +1,18 @@
+{"time":"2024-11-18T16:44:28.0546537-06:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-18T16:44:28.0546537-06:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20241118_164428-2txhbure\\logs\\debug-core.log"}
+{"time":"2024-11-18T16:44:28.1654587-06:00","level":"INFO","msg":"created new stream","id":"2txhbure"}
+{"time":"2024-11-18T16:44:28.1654587-06:00","level":"INFO","msg":"stream: started","id":"2txhbure"}
+{"time":"2024-11-18T16:44:28.1654587-06:00","level":"INFO","msg":"sender: started","stream_id":"2txhbure"}
+{"time":"2024-11-18T16:44:28.1654587-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"2txhbure"}}
+{"time":"2024-11-18T16:44:28.1654587-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"2txhbure"}}
+{"time":"2024-11-18T16:44:28.8362684-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-18T16:44:55.5075562-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-18T16:44:55.5086582-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-18T16:44:55.8110381-06:00","level":"ERROR","msg":"sender: sendDefer: failed to build job artifact","error":"Rel: can't make d:\\D\\TEC\\2024\\S2\\IA\\Repos\\Proyecto_3\\IC6200_AI_P3\\src relative to ."}
+{"time":"2024-11-18T16:44:56.2588419-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-18T16:44:56.5230824-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, summary, console logs","runtime_seconds":0.2642405}],"total_operations":1}}
+{"time":"2024-11-18T16:44:57.641114-06:00","level":"INFO","msg":"stream: closing","id":"2txhbure"}
+{"time":"2024-11-18T16:44:57.641114-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"2txhbure"}}
+{"time":"2024-11-18T16:44:57.641114-06:00","level":"INFO","msg":"sender: closed","stream_id":"2txhbure"}
+{"time":"2024-11-18T16:44:57.641114-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"2txhbure"}}
+{"time":"2024-11-18T16:44:57.641114-06:00","level":"INFO","msg":"stream: closed","id":"2txhbure"}

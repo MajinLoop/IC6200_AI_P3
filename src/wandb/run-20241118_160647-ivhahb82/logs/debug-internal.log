@@ -1,0 +1,21 @@
+{"time":"2024-11-18T16:06:48.001513-06:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-18T16:06:48.0020392-06:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20241118_160647-ivhahb82\\logs\\debug-core.log"}
+{"time":"2024-11-18T16:06:48.3219196-06:00","level":"INFO","msg":"created new stream","id":"ivhahb82"}
+{"time":"2024-11-18T16:06:48.3224437-06:00","level":"INFO","msg":"stream: started","id":"ivhahb82"}
+{"time":"2024-11-18T16:06:48.3224437-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ivhahb82"}}
+{"time":"2024-11-18T16:06:48.3224437-06:00","level":"INFO","msg":"sender: started","stream_id":"ivhahb82"}
+{"time":"2024-11-18T16:06:48.3224437-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ivhahb82"}}
+{"time":"2024-11-18T16:06:48.9748698-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-18T16:07:47.9557597-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-18T16:07:47.9568396-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-18T16:07:48.9675629-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-ivhahb82","runtime_seconds":1.9090435000000001,"subtasks":[{"desc":"model.ckpt","runtime_seconds":1.2475092,"progress":"2.4MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T16:08:49.5366732-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-ivhahb82","runtime_seconds":62.4781538,"subtasks":[{"desc":"model.ckpt","runtime_seconds":61.8166195,"progress":"126.4MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T16:09:50.1346452-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-ivhahb82","runtime_seconds":123.0761258,"subtasks":[{"desc":"model.ckpt","runtime_seconds":122.4145915,"progress":"189.1MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T16:10:50.7562207-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-ivhahb82","runtime_seconds":183.6977013,"subtasks":[{"desc":"model.ckpt","runtime_seconds":183.036167,"progress":"242.8MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T16:11:06.1302221-06:00","level":"ERROR","msg":"sender: sendDefer: failed to build job artifact","error":"Rel: can't make d:\\D\\TEC\\2024\\S2\\IA\\Repos\\Proyecto_3\\IC6200_AI_P3\\src relative to ."}
+{"time":"2024-11-18T16:11:06.1812182-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-18T16:11:07.5165372-06:00","level":"INFO","msg":"stream: closing","id":"ivhahb82"}
+{"time":"2024-11-18T16:11:07.5165372-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ivhahb82"}}
+{"time":"2024-11-18T16:11:07.5165372-06:00","level":"INFO","msg":"sender: closed","stream_id":"ivhahb82"}
+{"time":"2024-11-18T16:11:07.5165372-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ivhahb82"}}
+{"time":"2024-11-18T16:11:07.5165372-06:00","level":"INFO","msg":"stream: closed","id":"ivhahb82"}

@@ -1,0 +1,20 @@
+{"time":"2024-11-18T09:59:43.4597277-06:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-18T09:59:43.4597277-06:00","level":"INFO","msg":"created symlink","path":"wandb\\run-20241118_095943-id4i2uuy\\logs\\debug-core.log"}
+{"time":"2024-11-18T09:59:43.7585474-06:00","level":"INFO","msg":"created new stream","id":"id4i2uuy"}
+{"time":"2024-11-18T09:59:43.7585474-06:00","level":"INFO","msg":"sender: started","stream_id":"id4i2uuy"}
+{"time":"2024-11-18T09:59:43.7585474-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"id4i2uuy"}}
+{"time":"2024-11-18T09:59:43.7590698-06:00","level":"INFO","msg":"stream: started","id":"id4i2uuy"}
+{"time":"2024-11-18T09:59:43.7590698-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"id4i2uuy"}}
+{"time":"2024-11-18T09:59:44.5839156-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-18T10:03:04.6606648-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-18T10:03:04.6616655-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-18T10:03:05.6710937-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-id4i2uuy","runtime_seconds":2.103146,"subtasks":[{"desc":"model.ckpt","runtime_seconds":1.3911062,"progress":"2.4MB/255.4MB"}]},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6371252,"progress":"167B/167B"},{"desc":"uploading config.yaml","runtime_seconds":0.4781891,"progress":"1.1KB/1.1KB"},{"desc":"uploading output.log","runtime_seconds":0.4781891,"progress":"1.3KB/1.3KB"}],"total_operations":4}}
+{"time":"2024-11-18T10:04:06.1247103-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-id4i2uuy","runtime_seconds":62.5567626,"subtasks":[{"desc":"model.ckpt","runtime_seconds":61.8447228,"progress":"116.3MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T10:05:06.5626644-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-id4i2uuy","runtime_seconds":122.9947167,"subtasks":[{"desc":"model.ckpt","runtime_seconds":122.2826769,"progress":"228.5MB/255.4MB"}]}],"total_operations":1}}
+{"time":"2024-11-18T10:05:28.7694901-06:00","level":"ERROR","msg":"sender: sendDefer: failed to build job artifact","error":"Rel: can't make d:\\D\\TEC\\2024\\S2\\IA\\Repos\\Proyecto_3\\IC6200_AI_P3\\src relative to ."}
+{"time":"2024-11-18T10:05:28.8197856-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-18T10:05:30.1930847-06:00","level":"INFO","msg":"stream: closing","id":"id4i2uuy"}
+{"time":"2024-11-18T10:05:30.1930847-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"id4i2uuy"}}
+{"time":"2024-11-18T10:05:30.1930847-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"id4i2uuy"}}
+{"time":"2024-11-18T10:05:30.1930847-06:00","level":"INFO","msg":"sender: closed","stream_id":"id4i2uuy"}
+{"time":"2024-11-18T10:05:30.1936152-06:00","level":"INFO","msg":"stream: closed","id":"id4i2uuy"}
