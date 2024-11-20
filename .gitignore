@@ -1,4 +1,7 @@
 src/checkpoints
 src/data
 src/Experimento_1
+src/Experimento_2
 src/lightning_logs
+src/birds-525
+src/wandb
